@@ -76,11 +76,9 @@ Note "npm start" can be replaced with "node index.js" and the application will e
 
 ### Screenshots
 
-![Screenshot1](./assets/images/screenshot1.png)
-
-![ScreenshotHTML](./assets/images/screenshot_html.png)
-
-[Video Link](https://drive.google.com/file/d/1GjwUvUtFDKZYXj-uDgfaRx6NZZcrA85L/view)
+![Application Execution Demo](https://github.com/avi202020/team-profile-generator/screenshots/application_execution_demo.png)
+![Application Output Demo](https://github.com/avi202020/team-profile-generator/screenshots/application_execution_demo.png)
+![Test Exsecution Demo](https://github.com/avi202020/team-profile-generator/screenshots/application_execution_demo.png)
 
 ## Contributing
 Avadhesh Mishra
